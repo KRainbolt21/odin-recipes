@@ -4,7 +4,7 @@ body {
     font-family: Garamond, sans-serif;
 }
 
-h1 {
+#header {
     color: white;
     background-color: rgb(255, 174, 145);
     text-align: center;

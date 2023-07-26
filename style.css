@@ -22,3 +22,12 @@ img {
     color: rgb(235, 99, 99);
     font-size: 20px;
 }
+
+h3 {
+    background-color: rgb(255, 174, 145);
+    color: white;
+}
+
+.return {
+    color: rgb(235, 99, 99);
+}

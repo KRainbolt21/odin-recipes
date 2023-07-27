@@ -23,6 +23,7 @@ img {
 .recipe {
     color: rgb(235, 99, 99);
     font-size: 20px;
+    display: flex;
 }
 
 h3 {

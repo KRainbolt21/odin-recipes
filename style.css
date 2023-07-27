@@ -27,14 +27,14 @@ img {
     font-size: 20px;
 }
 
-ul{
+.index{
     display:flex;
     list-style-type: none;
     width: 600px;
     margin-left: 300px;
 }
 
-li {
+.pages {
     border: 2px solid rgb(235, 99, 99);
     padding: 20px;
     width: 200px;
@@ -43,7 +43,7 @@ li {
     background-color: rgb(255, 174, 145);
 }
 
-li:hover {
+.pages:hover {
     background-color: rgb(235, 99, 99);
 }
 
@@ -54,4 +54,14 @@ h3 {
 
 .return {
     color: rgb(235, 99, 99);
+}
+
+#chicken {
+    height: 500px;
+    width: auto;
+}
+
+div {
+    width: 1000px;
+    margin: auto;
 }

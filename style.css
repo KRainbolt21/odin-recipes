@@ -23,7 +23,7 @@ img {
 }
 
 .recipe {
-    color: rgb(235, 99, 99);
+    color: white;
     font-size: 20px;
 }
 
@@ -40,6 +40,11 @@ li {
     width: 200px;
     text-align: center;
     margin: 10px;
+    background-color: rgb(255, 174, 145);
+}
+
+li:hover {
+    background-color: rgb(235, 99, 99);
 }
 
 h3 {

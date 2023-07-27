@@ -23,7 +23,15 @@ img {
 .recipe {
     color: rgb(235, 99, 99);
     font-size: 20px;
+}
+
+ul{
+    display:flex;
+}
+
+li {
     display: flex;
+    border: 2px solid rgb(235, 99, 99);
 }
 
 h3 {

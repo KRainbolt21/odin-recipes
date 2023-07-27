@@ -8,6 +8,8 @@ body {
     color: white;
     background-color: rgb(255, 174, 145);
     text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
 }
 
 img {
